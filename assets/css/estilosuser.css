@@ -1,0 +1,9 @@
+.navbar-nav > li > .dropdown-menu { background-color: white; }
+
+
+
+.btn-danger{
+	color:#fff;
+	background-color:blue;
+	border-color:#d43f3a
+}
